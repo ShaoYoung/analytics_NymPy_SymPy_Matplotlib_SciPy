@@ -1,0 +1,53 @@
+
+
+
+https://colab.research.google.com/
+
+
+pip install matplotlib
+pip install numpy
+pip install sympy
+pip install scipy
+pip install scipy
+
+https://pypi.org/project/matplotlib/
+https://pypi.org/project/numpy/
+https://pypi.org/project/sympy/
+https://pypi.org/project/scipy/
+https://pypi.org/project/scipy/
+
+
+https://matplotlib.org/stable/users/installing/index.html
+https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.show.html
+
+https://numpy.org/install/
+https://numpy.org/doc/stable/reference/generated/numpy.sin.html
+https://numpy.org/doc/stable/reference/generated/numpy.roots.html
+https://numpy.org/doc/stable/reference/generated/numpy.diff.html
+
+https://docs.sympy.org/latest/install.html
+https://docs.sympy.org/latest/tutorials/intro-tutorial/basic_operations.html
+https://docs.sympy.org/latest/tutorials/intro-tutorial/manipulation.html
+https://docs.sympy.org/latest/tutorials/intro-tutorial/solvers.html
+https://docs.sympy.org/latest/guides/solving/solve-equation-algebraically.html
+https://docs.sympy.org/latest/modules/functions/elementary.html#trigonometric-functions
+https://docs.sympy.org/latest/modules/plotting.html
+https://docs.sympy.org/latest/modules/polys/basics.html
+https://docs.sympy.org/latest/modules/core.html
+
+https://www.tutorialspoint.com/sympy/sympy_symbols.htm
+
+https://scipy.org/install/
+https://docs.scipy.org/doc/scipy/getting_started.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.fsolve.html
+https://docs.scipy.org/doc/scipy/tutorial/index.html
+https://docs.scipy.org/doc/scipy/tutorial/optimize.html
+
+
+https://www.youtube.com/watch?v=v4R6K4RxADE
+
+
+
+
